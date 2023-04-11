@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fluff.Core", "Fluff.Core\Fluff.Core.csproj", "{E04F7343-FE72-42E2-9B6C-2731DF29D6EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_build", ".build\_build.csproj", "{A9CC33F0-60C2-4EEE-B746-7EDB4A87CC4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9CC33F0-60C2-4EEE-B746-7EDB4A87CC4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9CC33F0-60C2-4EEE-B746-7EDB4A87CC4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030C1E64-5221-456F-9763-3B917901104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030C1E64-5221-456F-9763-3B917901104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030C1E64-5221-456F-9763-3B917901104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030C1E64-5221-456F-9763-3B917901104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E04F7343-FE72-42E2-9B6C-2731DF29D6EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04F7343-FE72-42E2-9B6C-2731DF29D6EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04F7343-FE72-42E2-9B6C-2731DF29D6EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04F7343-FE72-42E2-9B6C-2731DF29D6EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
